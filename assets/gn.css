@@ -1,0 +1,140 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#mainForm {
+	padding: .5em;
+}
+
+#mainDisplay {}
+
+#newSong,
+#deleteSong,
+#toggleArea {
+	font-size: 1.3em;
+	color: black;
+	text-decoration: none;
+}
+
+#newSong:hover,
+#deleteSong:hover,
+#newSong:visted,
+#deleteSong:visted,
+#toggleArea:visted,
+#toggleArea:hover {
+	color: black;
+}
+
+#songTitle {
+	border: 0;
+	width: 80%;
+	font-size: 1.3em;
+}
+
+#songArea {
+	width: 99%;
+	height: 100px;
+	font-size: 1.1em;
+}
+
+.section {
+	width: 95%;
+	/* border-style: solid;
+	border-width: 0 0 1px 0;
+	border-color: black; */
+	padding-bottom: .3em;
+	padding-left: .5em;
+}
+
+.section h2 {
+	margin-bottom: 2px;
+	font-size: 1.1em;
+	font-style: italic;
+}
+
+.chord {
+	width: 50px;
+	margin: 3px;
+	float: left;
+}
+
+.chord .note {
+	text-align: center;
+}
+
+.chordbox {
+	height: 40px;
+	width: 40px;
+	float: right;
+}
+
+.fret {
+	float: left;
+	font-size: .8em;
+	padding-top: .3em;
+}
+
+/* //////////////////////////////////////////////////////////////// */
+/* (color)_(string) */
+.cM_6 {
+	background: url('chords.png') 0px 0px no-repeat;
+}
+
+.cM_5 {
+	background: url('chords.png') -42px 0px no-repeat;
+}
+
+.cm_6 {
+	background: url('chords.png') -84px 0px no-repeat;
+}
+
+.cm_5 {
+	background: url('chords.png') -126px 0px no-repeat;
+}
+
+/* //////////////////////////////////////////////////////////////// */
+
+.c7_6{
+	background: url('chords.png') 0px -40px no-repeat;
+}
+
+.c7_5{
+	background: url('chords.png') -42px -40px no-repeat;
+}
+
+/* //////////////////////////////////////////////////////////////// */
+
+.cM7_6 {
+	background: url('chords.png') 0px -80px no-repeat;
+}
+
+.cM7_5 {
+	background: url('chords.png') -42px -80px no-repeat;
+}
+
+.cm7_6 {
+	background: url('chords.png') -84px -80px no-repeat;
+}
+
+.cm7_5 {
+	background: url('chords.png') -126px -80px no-repeat;
+}
+
+.cdim7_6 {
+	background: url('chords.png') -168px -80px no-repeat;
+}
+
+.cdim7_5 {
+	background: url('chords.png') -210px -80px no-repeat;
+}
+
+/* //////////////////////////////////////////////////////////////// */
+
+/*.cdim_6 {
+	background: url('chords.png') -168px -80px no-repeat;
+}
+
+.cdim_5 {
+	background: url('chords.png') -210px -80px no-repeat;
+}*/

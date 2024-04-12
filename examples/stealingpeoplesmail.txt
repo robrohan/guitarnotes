@@ -1,0 +1,10 @@
+I: G F x4
+II: A G x4 D C x2 A G x2 E D x2 A G
+III: G F x2 C Bb G F
+IV: G F x4 C Bb x2 G F
+V: A# G# x4 D# C# x2 A# G# x2 E# D# x2 A# G#
+VI (solo): G F x4 A# G# x2 D
+VII: G F x2 C Bb G F
+VIII: G F x4 C Bb x2 D C x3
+VIIII: A G x4 D C x2 A G x2 E D x2 A G
+X: A# G# x4 D# C# x2 A# G# x2 E# D# x2 A# G#
