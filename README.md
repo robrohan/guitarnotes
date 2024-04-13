@@ -7,6 +7,8 @@ chords (G, Gdim7, etc) into a text box and generate basic chord diagrams. The id
 was to let me just jot down music ideas. It doesn't do any thing fancy, and is kind of the 
 equivalent of just writing chords down on a piece of paper.
 
+![Example](./docs/example.png)
+
 This version is so old it uses the browser's database API (which doesn't exist anymore), and it
 uses JQuery.
 
